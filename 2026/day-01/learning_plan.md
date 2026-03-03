@@ -1,9 +1,9 @@
 # 90-Day DevOps Learning Plan
 
-**Name:** Sneha Sah
-**Date:** 21 February 2025
-**Batch:** TrainWithShubham — Batch 9
-**Level:** Final year B.Tech CSE student (2026), fresher
+**Name:** Sneha Sah  
+**Date:** 3 February 2026  
+**Batch:** TrainWithShubham — Batch 9  
+**Level:** Final year B.Tech CSE student (2026), fresher  
 
 ---
 
