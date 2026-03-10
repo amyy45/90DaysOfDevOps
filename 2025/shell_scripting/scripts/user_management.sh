@@ -1,5 +1,6 @@
 #!/bin/bash
 
+[ "$EUID" -ne 0 ] && exec sudo "$0" "$@"
 # ================================================
 # user_management.sh
 # A bash script to manage Linux user accounts.
